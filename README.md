@@ -85,6 +85,10 @@ Springboot | MybatisPlus | Thymeleaf | Maven | Mysql
     用户名：admin  
     密码：admin  
 
+#### 项目预览
+地址：[商品详情 ](https://www.xunmaw.com/shop/detail/1620700236180439042)   
+点击商品详情中的演示地址，看查看系统录制的视频  
+
 #### 联系作者
 这是作者的微信二维码，如需本项目源代码，可扫码联系联系作者  
 ![作者微信](xunmaw001.jpg)
